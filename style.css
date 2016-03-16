@@ -7,6 +7,10 @@ html {
   background-color: silver;
 }
 
+body {
+
+}
+
 img {
   float: right;
   clear: both;
@@ -17,8 +21,23 @@ img {
 .before {
   float: left;
   padding-bottom: 30px;
+  background-color: red;
+  padding-left: 20px;
 }
 
+.during {
+  float: left;
+  padding-bottom: 30px;
+  background-color: white;
+  padding-left: 20px;
+}
+
+.after {
+  float: left;
+  padding-bottom: 30px;
+  background-color: blue;
+  padding-left: 20px;
+}
 .image-1 {
   float: right;
 }
