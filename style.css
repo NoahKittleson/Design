@@ -1,0 +1,24 @@
+h1 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+html {
+  background-color: silver;
+}
+
+img {
+  float: right;
+  clear: both;
+  width: 30%;
+  height: 30%;
+}
+
+.before {
+  float: left;
+  padding-bottom: 30px;
+}
+
+.image-1 {
+  float: right;
+}
